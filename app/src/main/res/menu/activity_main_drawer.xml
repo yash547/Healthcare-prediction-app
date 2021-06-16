@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/MY" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:title="@string/DIS"/>
+
+        <item
+            android:id="@+id/nav_med"
+            android:title="@string/Med" />
+        <item
+            android:id="@+id/nav_his"
+            android:title="@string/HIS"
+            />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="@string/LOG" />
+
+
+    </group>
+</menu>

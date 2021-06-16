@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HEALTHS</string>
+    <string name="title_activity_n_a_v_s">NAVS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="MY">My Details</string>
+    <string name="DIS">Disease prediction</string>
+    <string name="Med">Medicine</string>
+    <string name="HIS">History</string>
+    <string name="LOG">Logout</string>
+
+
+</resources>
